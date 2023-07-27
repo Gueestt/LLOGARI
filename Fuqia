@@ -1,1 +1,6 @@
-function Fuqi(){
+function Fuqi() {
+var b = Number(f.inpute_a.value); 
+var f = Number(f.inpute_b.value); 
+var rez = math.paw(b ,f);
+F.out_rez.vaue=rez
+{
